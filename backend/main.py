@@ -186,4 +186,4 @@ async def rag(data: TextInput):
 if __name__ == "__main__":
     # Запуск приложения на localhost с использованием Uvicorn
     # производится из командной строки: python your/path/api/main.py
-    uvicorn.run("main:app", host='130.193.57.190', port=8000, reload=True)
+    uvicorn.run("main:app", host='0.0.0.0', port=8000, reload=True)
