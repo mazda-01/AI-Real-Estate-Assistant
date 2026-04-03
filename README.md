@@ -51,7 +51,7 @@
 
 1. **Клонируйте репозиторий:**
 ```bash
-git clone https://github.com/ВАШ-USERNAME/AI-Real-Estate-Assistant.git
+git clone git@github.com:mazda-01/AI-Real-Estate-Assistant.git
 cd AI-Real-Estate-Assistant
 ```
 
